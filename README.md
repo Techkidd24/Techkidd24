@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Techkidd24
+- 👋 Hi, I’m Techkidd
 - 👀 I’m interested in coding and gaming.
 - 🌱 I’m currently learning CPP.
 - 💞️ I’m looking to collaborate on projects.
