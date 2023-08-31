@@ -1,3 +1,4 @@
+![logo](https://github.com/Techkidd24/Techkidd24/blob/main/banner.png)
 <h1 align="center">Hi 👋, Myself Techkidd</h1>
 <h3 align="center">Just another Indian Techy guy that keeps dipping his mind into technological realm and always keen to learn new tech.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif"
