@@ -182,15 +182,6 @@
 > ### Operating System
 
   <p align="left">
-
-&emsp;
-<a href="https://www.linux.org/" target="_blank">
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</a>
-&emsp;
-<a href="https://ubuntu.com/" target="_blank">
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</a>
 &emsp;
 <a href="https://www.microsoft.com/en-in/windows" target="_blank">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
