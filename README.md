@@ -165,14 +165,6 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &emsp;
-<a href="https://npmjs.com" target="_blank">
-<img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
-</a>
-&emsp;
-<a href="https://yarnpkg.com/" target="_blank">
-<img alt="Yarn" src="https://img.shields.io/badge/Yarn-%23000000.svg?style=for-the-badge&logo=yarn&logoColor=white">
-</a>
-&emsp;
 <a href="https://code.visualstudio.com/" target="_blank">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </a>
