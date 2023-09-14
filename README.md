@@ -111,10 +111,6 @@
 > ### Database and Cloud Hosting
 
   <p align="left">
-&emsp;
-    <a href="https://heroku.com/" target="_blank"> 
-     <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white">
-   </a> 
   &emsp;
       <a href="https://netlify.com/" target="_blank"> 
      <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
