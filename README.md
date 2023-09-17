@@ -111,10 +111,6 @@
 > ### Database and Cloud Hosting
 
   <p align="left">
-  &emsp;
-      <a href="https://netlify.com/" target="_blank"> 
-     <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
-  </a>
     &emsp;
       <a href="https://vercel.com/" target="_blank"> 
      <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7">
