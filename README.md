@@ -133,11 +133,7 @@
       <a href="https://www.adobe.com/products/premiere.html" target="_blank"> 
      <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/adobe%20Premiere%20Pro-5D3FD3?style=for-the-badge&logo=adobepremierepro&logoColor=white">
   </a>
-    &emsp;
-      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank"> 
-     <img alt="Adobe After Effects" src="https://img.shields.io/badge/adobe%20After%20Effects-5D3FD3?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
-  </a>
-    &emsp;
+&emsp;
       <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
      <img alt="Adobe Lightroom" src="https://img.shields.io/badge/adobe%20Lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white">
   </a>
