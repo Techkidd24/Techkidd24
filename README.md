@@ -13,7 +13,7 @@
 
 <hr/>
 
-<h4  align="center">Just another Indian Techy guy that keeps dipping his mind into technological realm and always keen to learn new tech.
+<h4  align="center">Just another Indian Tech guy that keeps dipping his mind into technological realm and always keen to learn new tech.
 <br>
   
   <br>
