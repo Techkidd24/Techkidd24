@@ -27,7 +27,7 @@
 
 ## 👨‍🎓 Skills
 
-- 🦾 Python/C++
+- 🦾 Python/C++/JavaScript
 
 - 📸 Photography
 
@@ -88,30 +88,51 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/javascript-FFC000?style=for-the-badge&logo=javascript&logoColor=white">
    </a> 
   &emsp;
-      <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> 
+     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
    </a>
-
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://www.python.org/" target="_blank"> 
+     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+   </a>
+    
   </p>
 
 > ### Frameworks and Libraries
+  <p align="left">
+    &emsp;
+    <a href="https://nodejs.org/en/" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+   </a> 
   &emsp;
-      <a href="https://discord.js.org/" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=black">
-  </a>
+  <a href="https://www.anaconda.com/" target="_blank"> 
+     <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+   </a>
+   &emsp;
+   <a href="https://pandas.pydata.org/" target="_blank"> 
+     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+   </a>
+
+
+  
+
 
   </p>
 
 > ### Database and Cloud Hosting
 
   <p align="left">
-    &emsp;
-      <a href="https://vercel.com/" target="_blank"> 
-     <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7">
-  </a>
-    &emsp;
-      <a href="https://mongodb.com/" target="_blank"> 
-     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+&emsp;
+    <a href="https://www.mysql.com/" target="_blank"> 
+     <img alt="MySql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+   </a> 
+  &emsp;
+      <a href="https://cloud.google.com/" target="_blank"> 
+     <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white">
   </a>
 
   </p>
@@ -130,6 +151,10 @@
 &emsp;
       <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
      <img alt="Adobe Lightroom" src="https://img.shields.io/badge/adobe%20Lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobelightroom&logoColor=white">
+  </a>
+  &emsp;
+      <a href="https://www.canva.com/en_in/" target="_blank"> 
+     <img alt="Canvas" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
   </a>
 
  </p>
