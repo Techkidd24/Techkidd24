@@ -27,7 +27,7 @@
 
 ## 👨‍🎓 Skills
 
-- 🦾 Python/C++/JavaScript
+- 🦾 Python/C++/JavaScript/TypeScript
 
 - 📸 Photography
 
